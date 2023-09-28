@@ -9,4 +9,4 @@ Caso deseje acessar as rotas em sua máquina , siga os passos abaixo:
 1 - Instalação do Nodemon
 2 - Configurar as rotas GET,POST,PUT,DELETE,PATCH
 3 - Instalação do VSCode 
-4 - Instalar repo
+4 - Instalar seguintes comandos : npm init , npm uuid , npm nodemon
